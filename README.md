@@ -24,6 +24,11 @@ revenue patterns, customer behavior, and business performance.
 ## Project Notebook
 [View the Kaggle Notebook](https://www.kaggle.com/code/arshanalytica/e-commerce-sales-analytics-revenue-customers-i)
 
+## Dataset
+The dataset used in this project is available on Kaggle.
+
+[View E-Commerce Sales Analytics Dataset](https://www.kaggle.com/datasets/arshanalytica/e-commerce-sales-analytics-dataset)
+
 ## Objective
 To use Python-based data analysis and visualization to identify
 business patterns and develop data-driven recommendations.
